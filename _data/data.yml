@@ -41,7 +41,9 @@ career-profile:
     title: Resumo Pessoal
     summary: |
       Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação,
-      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. Habilidades e Competências
+      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. 
+    details: |
+    Habilidades e Competências 
           - Visual Studio 
           - C#
           - .NET Framework/WPF
@@ -50,6 +52,7 @@ career-profile:
           - Integrações - Boletos - Nota Fiscais Eletrônica 
 
 education:
+    - title: Histórico Acadêmico
     - degree: Ciência da Computação
       university: PUC - Minas Gerais
       time: 2011 - 2015
@@ -61,6 +64,7 @@ education:
 
 
 experiences:
+    - title: Experiências Profissionais 
     - role: Analista de Sistemas - JR
       time: Abril de 2021 - Atual
       company: Metanet Sistemas
