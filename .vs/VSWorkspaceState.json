@@ -5,8 +5,9 @@
     "\\_data",
     "\\_includes",
     "\\_layouts",
-    "\\_sass"
+    "\\_sass",
+    "\\_sass\\skins"
   ],
-  "SelectedNode": "\\_includes\\language.html",
+  "SelectedNode": "\\_includes\\education.html",
   "PreviewInSolutionExplorer": false
 }
