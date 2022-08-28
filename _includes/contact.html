@@ -10,9 +10,9 @@
         </h2> 
 
         {% if sidebar.address %}
-        <li class="email">
+        <li class="address">
             <i class="fas fa-map"></i>
-            <a href="mailto:{{ sidebar.address }}">{{ sidebar.address }}</a>
+            {{ sidebar.address }} 
         </li>
         {% endif %}
 

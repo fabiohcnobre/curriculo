@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\C:\\Users\\fabio\\Source\\Repos\\online-cv",
+  "SelectedNode": "\\_includes\\language.html",
   "PreviewInSolutionExplorer": false
 }
