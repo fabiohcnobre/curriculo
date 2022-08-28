@@ -11,11 +11,11 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
-   .main-wrapper .time {
-       float: right;
+    .main-wrapper .time {
+        float: left;
         color: black !important;
-        -webkit-print-color-adjust: exact; 
-   }
+        -webkit-print-color-adjust: exact;
+    }
     .sidebar-wrapper {
         position: static;
         float: left;
