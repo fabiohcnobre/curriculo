@@ -43,8 +43,12 @@ career-profile:
     details: |
      Aprendizagem em dia.
         Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
-          - Inglês Intermediário
-          - Cursos de Pacotes Office
+          - Visual Studio 
+          - C#
+          - .NET Framework/WPF
+          - Banco de dados  MySQL / SQL / MongoDB
+          - API Rest
+          - Integrações - Boletos - Nota Fiscais Eletrônica 
 
 education: 
     - degree: Ciência da Computação
