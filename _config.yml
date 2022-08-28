@@ -8,10 +8,10 @@ url: 'https://fabiohcnobre.github.io/online-cv/'
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: Um belo tema para criar curriculo
+description: Teste
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #3a41e4
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-000000-1
