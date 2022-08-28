@@ -14,5 +14,11 @@
         {{ career-profile.summary | markdownify }}
     </div><!--//summary-->
 
+    {% if career-profile.details %}
+    <div class="details">
+        {{ career-profile.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
 </section><!--//section-->
 {% endif %}
