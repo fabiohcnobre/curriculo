@@ -61,35 +61,36 @@ experiences:
       time: Abril de 2016 - Abril de 2021
       company: Ciaf - Soluções em SoftwareCiaf - Soluções em Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Desenvolvedor de sistema em C# usando Visual Studio.
+        Desenvolvedor de sistema em C# usando Visual Studio. 
           - Integrações com NF-e e NFC-e utilizando C#.
           - Suporte e atendimento ao clientes via telefone e online.
-    - role: Analista de Sistemas/Desenvolvedor - JR
+    - role: Desenvolvedor - JR
       time: Junho de 2015 - Abril de 2016
       company: Hard Net Informática
       details: |
         Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
-         - Bullet pointAtendimento presencial. 
+         - Atendimento presencial.
 skills:
     title: Habilidades &amp; Competência
 
     toolset:
+    - name: Visual Studio
+        level: 100% 
+
       - name: C#
         level: 100% 
 
-      - name: HTML5 & CSS
+      - name: .NET Framework/WPF
         level: 80%
 
-      - name: MySQL / SQL
+      - name: Banco de dados - MySQL / SQL / MongoDB
         level: 50%
 
-      - name: MongoDB
+      - name: API Rest
         level: 40%
+
+       - name: Integrações - Boletos - Nota Fiscais Eletrônica 
+       level: 75%
 
 footer: >
     Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
