@@ -12,6 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    address: Poços de Caldas/MG - Possibilidade de trabalho remoto.
     email: fabiohcnobre@hotmail.com
     phone: WhatsApp +55 (35) 98415-1764
     timezone:  
@@ -70,14 +71,15 @@ experiences:
       details: |
         Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
          - Atendimento presencial.
+         0#
 skills:
     title: Habilidades &amp; Competência
 
     toolset:
     - name: Visual Studio
         level: 100% 
-
-      - name: C#
+        
+        - name: CSharp
         level: 100% 
 
       - name: .NET Framework/WPF
