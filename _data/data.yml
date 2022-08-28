@@ -35,20 +35,7 @@ sidebar:
 
       - idiom: English
         level: Basico
-
-      - idiom:  
-        level:  
-
-    interests:
-      - item:  
-        link:
-
-      - item:  
-        link:
-
-      - item:  
-        link:
-
+         
 career-profile:
     title: Resumo Pessoal
     summary: |
@@ -87,29 +74,7 @@ experiences:
       company: Hard Net Informática
       details: |
         Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
-         - Bullet pointAtendimento presencial.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-         
-
-publications:
-    title:  
-    intro: |
-    
-    papers:
-      - title:  
-        link: "#"
-        authors:  
-        conference:  
-         
+         - Bullet pointAtendimento presencial.      
 
 skills:
     title: Habilidades &amp; Competência
@@ -128,4 +93,4 @@ skills:
         level: 40%
 
 footer: >
-    Feito com <i class="fas fa-heart"></i> by <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
+    Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
