@@ -18,7 +18,7 @@ sidebar:
     citizenship:
     website:   #do not add http://
     linkedin: fabiohcnobre
-    xing:  
+    xing: 
     github: fabiohcnobre
     telegram: # add your nickname without '@' sign
     gitlab: 
@@ -35,7 +35,20 @@ sidebar:
 
       - idiom: English
         level: Basico
-         
+
+      - idiom:  
+        level:  
+
+    interests:
+      - item:  
+        link:
+
+      - item:  
+        link:
+
+      - item:  
+        link:
+
 career-profile:
     title: Resumo Pessoal
     summary: |
@@ -74,8 +87,7 @@ experiences:
       company: Hard Net Informática
       details: |
         Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
-         - Bullet pointAtendimento presencial.      
-
+         - Bullet pointAtendimento presencial. 
 skills:
     title: Habilidades &amp; Competência
 
