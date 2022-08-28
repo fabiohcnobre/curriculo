@@ -76,7 +76,7 @@ experiences:
          - Atendimento presencial.
          
 skills:
-    title: Habilidades &amp; Competências
+    title: Habilidades &amp; Competencias
 
     toolset:
       - name: Visual Studio
@@ -94,7 +94,7 @@ skills:
       - name: API Rest
         level: 40%
 
-      - name: Integrações - Boletos - Nota Fiscais Eletrônica
+      - name: Integracoes - Boletos - Nota Fiscais Eletrônica
         level: 40%
 
 footer: >
