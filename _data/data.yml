@@ -49,7 +49,7 @@ career-profile:
           - API Rest
           - Integrações - Boletos - Nota Fiscais Eletrônica 
 
-education:
+education: 
     - degree: Ciência da Computação
       university: PUC - Minas Gerais
       time: 2011 - 2015
@@ -60,7 +60,7 @@ education:
           - Cursos de Pacotes Office
 
 
-experiences:
+experiences: 
     - role: Analista de Sistemas - JR
       time: Abril de 2021 - Atual
       company: Metanet Sistemas
