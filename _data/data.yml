@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -41,7 +41,15 @@ career-profile:
     title: Resumo Pessoal
     summary: |
       Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação,
-      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro..
+      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro.
+      Habilidades e Competências
+          - Visual Studio 
+          - C#
+          - .NET Framework/WPF
+          - Banco de dados - MySQL / SQL / MongoDB
+          - API Rest
+          - Integrações - Boletos - Nota Fiscais Eletrônica 
+
 education:
     - degree: Ciência da Computação
       university: PUC - Minas Gerais
