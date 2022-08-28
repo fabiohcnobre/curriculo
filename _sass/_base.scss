@@ -54,7 +54,7 @@ p {
     }
 
     .profile-container {
-         padding: 5px;
+        padding: 5px;
         //background: darken($theme-color, 10%);
         //background: rgba(0, 0, 0, 0.2);
         text-align: center;
@@ -84,6 +84,7 @@ p {
         //used for profile image
         max-width: 200px;
         max-height: 200px;
+        margin-top: 5px;
         margin-bottom: 5px;
         border: 0px solid #fff;
         border-radius: 100%;
