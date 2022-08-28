@@ -1,15 +1,14 @@
 {% assign experiences = site.data.data.education %}
 {% if education %}
-<section class="section experiences-section">
+<section class="section education-section">
     <h2 class="section-title">
         <span class="fa-stack fa-xs">
             <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+            <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
         </span>
-        Experiences
+        Histórico Acadêmico
     </h2>
-
-    {% for education in education %}
+     
     <div class="item">
         <div class="meta">
             <div class="upper-row">
@@ -25,8 +24,7 @@
         </div><!--//details-->
         {% endif %}
 
-    </div><!--//item-->
-    {% endfor %}
+    </div><!--//item--> 
 
 </section><!--//section-->
 {% endif %}
