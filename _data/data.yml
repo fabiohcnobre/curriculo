@@ -71,28 +71,28 @@ experiences:
       details: |
         Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
          - Atendimento presencial.
-         0#
+         
 skills:
-    title: Habilidades &amp; Competência
+    title: Skills &amp; Proficiency
 
     toolset:
-    - name: Visual Studio
-        level: 100% 
-        
-        - name: CSharp
+      - name: Visual Studio
         level: 100% 
 
-      - name: .NET Framework/WPF
+      - name: C#
         level: 80%
 
-      - name: Banco de dados - MySQL / SQL / MongoDB
+      - name: .NET Framework/WPF
         level: 50%
+
+      - name: Banco de dados - MySQL / SQL / MongoDB
+        level: 40%
 
       - name: API Rest
         level: 40%
 
-       - name: Integrações - Boletos - Nota Fiscais Eletrônica 
-       level: 75%
+      - name: Integrações - Boletos - Nota Fiscais Eletrônica
+        level: 40%
 
 footer: >
     Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
