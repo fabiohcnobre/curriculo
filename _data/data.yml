@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Fabio H. C. Nobre
@@ -49,6 +49,9 @@ education:
       details: |
         Aprendizagem em diversas tecnologias da computação como Banco de Dados, Processamento Gráfico, 
         Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
+          - Inglês Intermediário
+          - Cursos de Pacotes Office
+
 
 experiences:
     - role: Analista de Sistemas - JR

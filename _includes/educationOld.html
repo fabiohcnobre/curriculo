@@ -1,54 +1,38 @@
-{% assign education = site.data.data.education %}
-{% if education %}
-  {% if site.data.data.sidebar.education %}
-  <div class="education-container container-block">
+{% assign projects = site.data.data.projects %}
+{% if projects %}
+<section class="section projects-section">
 
-    <h2 class="container-block-title">
-      Education
-    </h2>
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ projects.title }}
+  </h2>
 
-    {% for graduation in education %}
+  {% if projects.intro %}
+  <div class="intro">
+      <p>{{ projects.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in projects.assignments %}
     <div class="item">
-      <h4 class="degree">{{ graduation.degree }}</h4>
-      <h5 class="meta">{{ graduation.university }}</h5>
-      <div class="time">{{ graduation.time }}</div>
-    </div><!--//item-->
-    {% endfor %}
 
-  </div><!--//education-container-->
-  {% else %}
-  <section class="section educations-section">
-
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      <span class="project-title">
+        {% if project.link %}
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {% else %}
+        {{ project.title }}
+        {% endif %}
       </span>
-      Education
-    </h2>
 
-    {% for graduation in education %}
-    <div class="item">
-
-      <div class="meta">
-
-        <div class="upper-row">
-          <h3 class="degree">{{ graduation.degree }}</h3>
-          <div class="time">{{ graduation.time }}</div>
-        </div><!--//upper-row-->
-
-        <div class="university">{{ graduation.university }}</div>
-      </div><!--//meta-->
-
-      {% if graduation.details %}
-      <div class="details">
-        {{ graduation.details | markdownify }}
-      </div><!--//details-->
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
-    {% endfor %}
+  {% endfor %}
 
-  </section><!--//section-->
-  {% endif %}
+</section><!--//section-->
 {% endif %}
