@@ -34,20 +34,7 @@ sidebar:
         level: Nativo
 
       - idiom: English
-        level: Basico
-
-      - idiom:  
-        level:  
-
-    interests:
-      - item:  
-        link:
-
-      - item:  
-        link:
-
-      - item:  
-        link:
+        level: Basico  
 
 career-profile:
     title: Resumo Pessoal
