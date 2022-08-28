@@ -41,18 +41,15 @@ career-profile:
     title: Resumo Pessoal
     summary: |
       Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação,
-      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. Habilidades e Competências
+      além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. 
+      details: |
+        Habilidades e Competências
           - Visual Studio 
           - C#
           - .NET Framework/WPF
           - Banco de dados - MySQL / SQL / MongoDB
           - API Rest
           - Integrações - Boletos - Nota Fiscais Eletrônica 
-      details: |
-        Aprendizagem em diversas tecnologias da computação como Banco de Dados, Processamento Gráfico, 
-        Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
-          - Inglês Intermediário
-          - Cursos de Pacotes Office
 
 education: 
     - degree: Ciência da Computação
