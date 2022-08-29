@@ -13,11 +13,12 @@
     <div class="summary">
         {{ career-profile.summary  }}
     </div><!--//summary-->
-
     {% if career-profile.details %}
-    <div class="details">
-        {{ career-profile.details | markdownify }}
-    </div><!--//details-->
+    <div class="item">
+        <div class="details">
+            {{ career-profile.details | markdownify }}
+        </div><!--//details-->
+    </div>
     {% endif %}
 
 
