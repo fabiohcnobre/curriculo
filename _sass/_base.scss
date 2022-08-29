@@ -1,12 +1,12 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", sans-serif;
-  color: $text-color-secondary;
-  background: $smoky-white;
-  font-size: 14px;
-  padding: 30px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-family: "Roboto", sans-serif;
+    color: $text-color-secondary;
+    background: $smoky-white;
+    font-size: 14px;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -15,32 +15,34 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+    font-weight: 700;
 }
 
 a {
-  color: darken($theme-color, 15%);
-  &:hover {
-    text-decoration: underline;
-    color: darken($theme-color, 30%);
-  }
-  &:focus {
-    text-decoration: none;
-  }
+    color: darken($theme-color, 15%);
+
+    &:hover {
+        text-decoration: underline;
+        color: darken($theme-color, 30%);
+    }
+
+    &:focus {
+        text-decoration: none;
+    }
 }
 
 p {
-  line-height: 1.5;
+    line-height: 1.5;
 }
 
 .wrapper {
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  background: $theme-color;
-  max-width: 1000px;
-  margin: 0 auto;
-  position: relative;
-  @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    background: $theme-color;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
 .sidebar-wrapper {
@@ -111,7 +113,6 @@ p {
 
     .container-block {
         padding: 30px;
-        text-align: end;
     }
 
     .container-block-title {
@@ -294,34 +295,38 @@ p {
 }
 
 .skillset {
-  .item {
-    margin-bottom: 10px;
-    overflow: hidden;
-  }
-  .level-title {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 12px;
-  }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
-  }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
-  }
+    .item {
+        margin-bottom: 10px;
+        overflow: hidden;
+    }
+
+    .level-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+
+    .level-bar {
+        height: 12px;
+        background: $smoky-white;
+    }
+
+    .level-bar-inner {
+        height: 12px;
+        background: lighten($theme-color, 15%);
+    }
 }
 
 .footer {
-  padding-top: 5px;
-  .copyright {
-    line-height: 1.6;
-    color: $text-color-secondary;
-    font-size: 13px;
-  }
+    padding-top: 5px;
 
-  .fa-heart {
-    color: $heart;
-  }
+    .copyright {
+        line-height: 1.6;
+        color: $text-color-secondary;
+        font-size: 13px;
+    }
+
+    .fa-heart {
+        color: $heart;
+    }
 }
