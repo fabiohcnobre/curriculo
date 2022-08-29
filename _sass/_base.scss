@@ -202,11 +202,10 @@ p {
     }
 
     .title-section {
-        text-align: center;
-        color: rgba(256, 256, 256, 0.6);
+        text-align: center; 
         font-size: 16px;
         .tagline {
-            color: rgba(256, 256, 256, 0.6);
+            color: $text-color;
             font-size: 16px;
             font-weight: 100;
             margin-top: 0;

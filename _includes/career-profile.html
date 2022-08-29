@@ -16,7 +16,7 @@
 
     {% if career-profile.details %}
     <div class="details">
-       
+        {{ career-profile.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
