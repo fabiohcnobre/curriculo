@@ -204,6 +204,7 @@ p {
     .title-section {
         text-align: center;
         font-size: 16px;
+        color: darken($theme-color, 15%);
 
         .tagline {
             color: darken($theme-color, 15%);
