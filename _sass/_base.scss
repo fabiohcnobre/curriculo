@@ -195,7 +195,14 @@ p {
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
+    }
 
+    .section {
+        margin-bottom: 10px;
+    }
+
+    .title-section {
+        text-align: center;
         .tagline {
             color: rgba(256, 256, 256, 0.6);
             font-size: 16px;
@@ -203,10 +210,6 @@ p {
             margin-top: 0;
             margin-bottom: 0;
         }
-    }
-
-    .section {
-        margin-bottom: 10px;
     }
 
     .career-section,
