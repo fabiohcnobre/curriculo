@@ -204,10 +204,10 @@ p {
     .title-section {
         text-align: center;
         font-size: 16px;
-        color: darken($theme-color, 15%);
+        color: $theme-color;
 
         .tagline {
-            color: darken($theme-color, 15%);
+            color: $theme-color;
             font-size: 16px;
             font-weight: 100;
             margin-top: 0;
