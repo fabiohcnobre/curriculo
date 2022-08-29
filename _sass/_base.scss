@@ -185,7 +185,7 @@ p {
     grid-column: span 7;
     order: 1;
     background: #fff;
-    padding: 30px;
+    padding: 5px;
 
     .section-title {
         text-transform: uppercase;
@@ -207,7 +207,6 @@ p {
         font-size: 24px;
         color: darken($theme-color, 15%);
         position: relative;
-        margin-top: 0;
         margin-bottom: 5px;
     }
 
