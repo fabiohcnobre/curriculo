@@ -1,8 +1,8 @@
 {% assign sidebar = site.data.data.sidebar %}
 {% if sidebar %}
-
-{% if sidebar.tagline %}
-<h3 class="tagline">{{ sidebar.tagline }}</h3>
-{% endif %}
-
+<section class="section section-title">
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+    </section>
 {% endif %}
