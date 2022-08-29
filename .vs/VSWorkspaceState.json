@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\assets",
-    "\\_data",
-    "\\_includes",
-    "\\_layouts",
-    "\\_sass",
-    "\\_sass\\skins"
+    ""
   ],
-  "SelectedNode": "\\_data\\data.yml",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

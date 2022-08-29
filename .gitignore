@@ -6,3 +6,9 @@ _site/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+.vs\online-cv/
+.vs\
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
