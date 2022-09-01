@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass",
+    "\\_sass\\skins"
   ],
-  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
