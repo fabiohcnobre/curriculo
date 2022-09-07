@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
+    "\\assets",
     "\\_includes",
-    "\\_layouts",
-    "\\_sass",
-    "\\_sass\\skins"
+    "\\_layouts"
   ],
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
