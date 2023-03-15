@@ -1,5 +1,4 @@
 #Update all the sections by editing the data.yml file inside _data folder.
-
 # Site Settings
 title: Meu Curriculo
 url: 'https://fabiohcnobre.github.io/online-cv/'
@@ -8,10 +7,10 @@ url: 'https://fabiohcnobre.github.io/online-cv/'
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: Teste
+#description: Teste
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+#chrome_mobile_color: blue #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: G-N9YT4HCE3P
