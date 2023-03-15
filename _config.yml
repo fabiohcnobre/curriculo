@@ -22,6 +22,7 @@ sass:
 
 # Build settings
 compress-site: yes
+regenerate: true
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
