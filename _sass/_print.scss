@@ -12,6 +12,10 @@
         -webkit-filter: greyscale(1);
     }
 
+    a[href]:after {
+        content: none !important;
+      }
+
     .main-wrapper .time {
         float: left;
         color: black !important;

@@ -49,7 +49,10 @@ career-profile:
           - API Rest
           - Integrações - Boletos - Nota Fiscais Eletrônica 
 
-education: 
+educationtitle: 
+    title: Histórico Acadêmico - Certificações
+
+education:  
     - degree: Ciência da Computação
       university: PUC - Minas Gerais
       time: 2011 - 2015
@@ -58,6 +61,16 @@ education:
         Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
           - Inglês Intermediário
           - Cursos de Pacotes Office
+    - degree: Alura - cursos e certifacações    
+      details: |
+        A Alura compõe o maior ecossistema de ensino em tecnologia do Brasil e tem como missão transformar vidas e carreiras. \
+              https://cursos.alura.com.br/vitrinedev/FABIOHCNOBRE
+          - Git e GitHub: repositório, commit e versões
+          - Git e Github: controle e compartilhe seu código
+          - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+          - C#: explorando a linguagem
+          - C#: Trabalhando com Arrays e Coleções 
+          
 
 
 experiences: 
