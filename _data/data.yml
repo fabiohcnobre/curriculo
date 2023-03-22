@@ -68,12 +68,15 @@ education:
           - Git e GitHub: repositório, commit e versões
           - Git e Github: controle e compartilhe seu código
           - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
-          - C#: explorando a linguagem
-          - C#: Trabalhando com Arrays e Coleções 
-          - C#: orientação a objetos
+          - Formação: APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS
 
-
-          
+alura:  
+      curso: C# explorando a linguagem
+      curso: C# Trabalhando com Arrays e Coleções 
+      curso: C# orientação a objetos
+      curso: C# entendendo exceções
+      curso: C# usando herança e implementando interfaces
+         
 
 
 experiences: 
