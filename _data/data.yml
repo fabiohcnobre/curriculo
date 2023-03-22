@@ -41,13 +41,13 @@ career-profile:
     title: Resumo Pessoal
     summary: Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação, além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. 
     details: |
-      Habilidades e Competências:
-          - Visual Studio   
-          - C#
-          - .NET Framework/WPF
-          - Banco de dados  MySQL / SQL / MongoDB
-          - API Rest
-          - Integrações - Boletos - Nota Fiscais Eletrônica 
+      Habilidades e Competências: \
+          - Visual Studio   \
+          - C# \
+          - .NET Framework/WPF \
+          - Banco de dados  MySQL / SQL / MongoDB \
+          - API Rest \
+          - Integrações - Boletos - Nota Fiscais Eletrônica \
 
 educationtitle: 
     title: Histórico Acadêmico - Certificações
@@ -71,11 +71,11 @@ education:
           - Formação: APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS
 
 alura:  
-      curso: C# explorando a linguagem
-      curso: C# Trabalhando com Arrays e Coleções 
-      curso: C# orientação a objetos
-      curso: C# entendendo exceções
-      curso: C# usando herança e implementando interfaces
+    - curso: C# explorando a linguagem      
+    - curso: C# Trabalhando com Arrays e Coleções 
+    - curso: C# orientação a objetos
+    - curso: C# entendendo exceções
+    - curso: C# usando herança e implementando interfaces
          
 
 
