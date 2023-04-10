@@ -41,13 +41,7 @@ career-profile:
     title: Resumo Pessoal
     summary: Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação, além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. 
     details: |
-      **Habilidades e Competências:** \
-          - Visual Studio   \
-          - C# \
-          - .NET Framework/WPF \
-          - Banco de dados  MySQL / SQL / MongoDB \
-          - API Rest \
-          - Integrações - Boletos - Nota Fiscais Eletrônica
+     
 
 educationtitle: 
     title: Histórico Acadêmico - Certificações
@@ -69,15 +63,17 @@ education:
           - Git e Github: controle e compartilhe seu código
           - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
           - Formação: APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS
-
+          - Microsoft SQL Server 2022: conhecendo SQL
+          - Microsoft SQL Server 2022: consultas avançadas
+          
 alura:  
     - curso: C# explorando a linguagem      
     - curso: C# Trabalhando com Arrays e Coleções 
     - curso: C# orientação a objetos
     - curso: C# entendendo exceções
     - curso: C# usando herança e implementando interfaces
-         
-
+    - curso: Microsoft SQL Server 2022 conhecendo SQL
+    - curso: Microsoft SQL Server 2022 consultas avançadas
 
 experiences: 
     - role: Analista de Sistemas - JR
