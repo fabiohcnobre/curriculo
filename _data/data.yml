@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:  
+    pdf:  /pdf/CurriculoFabioHCNobre 08-2023.pdf
 
     languages:
       - idiom: Portugues - Brasil
@@ -67,14 +67,12 @@ education:
           - Microsoft SQL Server 2022: consultas avançadas
           
 alura:  
-    - curso: C# explorando a linguagem      
-    - curso: C# Trabalhando com Arrays e Coleções 
-    - curso: C# orientação a objetos
-    - curso: C# entendendo exceções
-    - curso: C# usando herança e implementando interfaces
-    - curso: Microsoft SQL Server 2022 conhecendo SQL
-    - curso: Microsoft SQL Server 2022 consultas avançadas
-
+    - curso: C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos 
+    - curso: Formação de Microsoft SQL Server 2022
+    - curso: MongoDB: conhecendo um banco de dados NoSQL
+    - curso: ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ
+    - curso: Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs.
+ 
 experiences: 
     - role: Analista de Sistemas - JR
       time: Abril de 2021 - Atual
@@ -121,3 +119,5 @@ skills:
 
 footer: >
     Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
+
+siderbarfooter: /imagens/computador.png
