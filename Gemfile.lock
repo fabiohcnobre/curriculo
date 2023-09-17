@@ -263,7 +263,7 @@ DEPENDENCIES
   github-pages
   jekyll
   tzinfo-data
-  webrick (~> 1.8)
+  webrick
 
 BUNDLED WITH
    2.3.19
