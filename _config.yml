@@ -11,7 +11,6 @@ url: 'https://fabiohcnobre.github.io/online-cv/'
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: 1976d2 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
-url: 'https://fabiohcnobre.github.io/curriculo/'
 
 # Tracker
 analytics: G-N9YT4HCE3P
