@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:  /pdf/CurriculoFabioHCNobre 08-2023.pdf
+    pdf:  /curriculo/pdf/CurriculoFabioHCNobre 08-2023.pdf
 
     languages:
       - idiom: Portugues - Brasil
@@ -120,4 +120,4 @@ skills:
 footer: >
     Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
 
-siderbarfooter: /imagens/computador.png
+siderbarfooter: /curriculo/imagens/computador.png
