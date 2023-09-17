@@ -67,11 +67,11 @@ education:
           - Microsoft SQL Server 2022: consultas avançadas
           
 alura:  
-    - curso: C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos 
-    - curso: Formação de Microsoft SQL Server 2022
-    - curso: MongoDB: conhecendo um banco de dados NoSQL
-    - curso: ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ
-    - curso: Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs.
+    - curso: 'C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos.'
+    - curso: 'Formação de Microsoft SQL Server 2022'
+    - curso: 'MongoDB: conhecendo um banco de dados NoSQL'
+    - curso: 'ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ'
+    - curso: 'Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs.'
  
 experiences: 
     - role: Analista de Sistemas - JR
