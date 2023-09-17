@@ -1,11 +1,9 @@
 {% assign skills = data.skills %}
 {% if skills %}
 <div class="languages-container container-block">
-
   <h2 class="container-block-title">
     {{ skills.title }}
   </h2>
-
   <ul class="list-unstyled interests-list">
     {% for skill in skills.toolset %}
     <li>
@@ -13,6 +11,5 @@
     </li>
     {% endfor %}
   </ul>
-
 </div><!--//interests-->
 {% endif %}
