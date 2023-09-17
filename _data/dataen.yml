@@ -1,0 +1,116 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Fabio H. C. Nobre
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    address: Araras/SP -Possibility of remote work.
+    nascido: Poços de Caldas/MG-Brasil
+    email: fabiohcnobre@hotmail.com
+    phone: +55 (35) 98415-1764
+    timezone:  
+    citizenship:
+    website:   #do not add http://
+    linkedin: fabiohcnobre
+    xing: 
+    github: fabiohcnobre
+    telegram: # add your nickname without '@' sign
+    gitlab: 
+    bitbucket:
+    twitter: '@fabiohcnobre'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:  
+
+    languages:
+      - idiom: Portuguese - Brazil
+        level: Native
+
+      - idiom: English
+        level: Basic  
+
+career-profile:
+    title: Career Profile
+    summary: 'Results-oriented systems analyst, with excellent communication skills, as well as in-depth knowledge of digital systems and company and financial management processes.'
+    details: |
+     
+
+educationtitle: 
+    title: Education - Certifications
+
+education:  
+    - degree: Computer Science
+      university: PUC - Minas Gerais
+      time: 2011 - 2015
+      details: |
+         Learning in various computing technologies such as Database, Graphics Processing,
+         Software Engineering, Artificial Intelligence, Computer Networks and Information Systems. 
+          - Office Packages Courses
+    - degree: Alura - Courses and Certifications 
+      details: |
+        Alura is part of the largest technology education ecosystem in Brazil and its mission is to transform lives and careers. \
+              https://cursos.alura.com.br/vitrinedev/FABIOHCNOBRE
+          - Git e GitHub  
+          - C#
+          - SQL SERVER and MongoDB 
+          
+alura:  
+    - curso: 'C#.'
+    - curso: 'Git e GitHub'
+    - curso: 'MongoDB'
+    - curso: 'SQL SERVER'
+    - curso: 'Git e GitHub'
+ 
+experiences: 
+    - role: Systems Analyst - JR
+      time: 2021-04 - Current
+      company: Metanet Sistemas
+      details: | 
+          - C# .NET
+          - Banco SQL Server
+    - role:  Systems Analyst  - JR
+      time: 2016-04 -2021-04
+      company: Ciaf - Soluções em Software
+      details: | 
+          -  C#.
+          - Support.
+    - role: Developer - JR
+      time: 2015-06 - 2016-04
+      company: Hard Net Informática
+      details: | 
+         - Support and Developer (VBa).
+         
+skills:
+    title: Skills &amp;
+
+    toolset:
+      - name: Visual Studio
+        level: 100% 
+
+      - name: C#
+        level: 80%
+
+      - name: .NET Framework/WPF
+        level: 50%
+
+      - name: Banco de dados - MySQL / SQL / MongoDB
+        level: 40%
+
+      - name: API Rest
+        level: 40%
+
+      - name: Integracoes - Boletos - Nota Fiscais Eletrônica
+        level: 40%
+
+footer: >
+    <i class="fas fa-heart"></i> by <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
+
+siderbarfooter: /curriculo/imagens/computador.png

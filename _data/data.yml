@@ -11,8 +11,9 @@ sidebar:
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    address: Poços de Caldas/MG - Possibilidade de trabalho remoto.
+    # Sidebar links    
+    address: Araras/SP - Possibilidade de trabalho remoto.
+    nascido: Poços de Caldas/MG-Brasil
     email: fabiohcnobre@hotmail.com
     phone: +55 (35) 98415-1764
     timezone:  
@@ -83,7 +84,7 @@ experiences:
           - Banco SQL Server
     - role:  Analista de Sistemas - JR
       time: Abril de 2016 - Abril de 2021
-      company: Ciaf - Soluções em SoftwareCiaf - Soluções em Software
+      company: Ciaf - Soluções em Software
       details: |
         Desenvolvedor de sistema em C# usando Visual Studio. 
           - Integrações com NF-e e NFC-e utilizando C#.

@@ -2,9 +2,13 @@
 #Add "layout: compress" here to compress the html code
 ---
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="pt-br"> <!--<![endif]-->
+{% if page.language == "en" %}
+{% assign data = site.data.dataen %}
+<html lang="en">
+{% else %}
+{% assign data = site.data.data %}
+<html lang="pt-BR">
+{% endif %} 
 {% include head.html %}
 
 <body>
