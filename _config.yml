@@ -24,11 +24,15 @@ sass:
 compress-site: yes
 regenerate: true
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
-    envs: development
+  envs: development
 
 # Development Settings
 port: 4000
