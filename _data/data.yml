@@ -3,125 +3,124 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Fabio H. C. Nobre
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Fabio H. C. Nobre
+  tagline: Full Stack Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links    
-    address: Araras/SP - Possibilidade de trabalho remoto.
-    nascido: Poços de Caldas/MG-Brasil
-    email: fabiohcnobre@hotmail.com
-    phone: +55 (35) 98415-1764
-    timezone:  
-    citizenship:
-    website:   #do not add http://
-    linkedin: fabiohcnobre
-    xing: 
-    github: fabiohcnobre
-    telegram: # add your nickname without '@' sign
-    gitlab: 
-    bitbucket:
-    twitter: '@fabiohcnobre'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:  /curriculo/pdf/CurriculoFabioHCNobre 08-2023.pdf
+  # Sidebar links
+  address: Araras/SP - Possibilidade de trabalho remoto.
+  nascido: Poços de Caldas/MG-Brasil
+  email: fabiohcnobre@hotmail.com
+  phone: +55 (35) 98415-1764
+  timezone:
+  citizenship:
+  website: #do not add http://
+  linkedin: fabiohcnobre
+  xing:
+  github: fabiohcnobre
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: "@fabiohcnobre"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: /curriculo/pdf/CurriculoFabioHCNobre 08-2023.pdf
 
-    languages:
-      - idiom: Portugues - Brasil
-        level: Nativo
+  languages:
+    - idiom: Portugues - Brasil
+      level: Nativo
 
-      - idiom: English
-        level: Basico  
+    - idiom: English
+      level: Basico
 
 career-profile:
-    title: Resumo Pessoal
-    summary: Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação, além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro. 
+  title: Resumo Pessoal
+  summary: Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação, além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro.
+  details: |
+
+educationtitle:
+  title: Histórico Acadêmico - Certificações
+
+education:
+  - degree: Ciência da Computação
+    university: PUC - Minas Gerais
+    time: 2011 - 2015
     details: |
-     
+      Aprendizagem em diversas tecnologias da computação como Banco de Dados, Processamento Gráfico, 
+      Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
+        - Inglês Intermediário
+        - Cursos de Pacotes Office
+  - degree: Alura - cursos e certifacações
+    details: |
+      A Alura compõe o maior ecossistema de ensino em tecnologia do Brasil e tem como missão transformar vidas e carreiras. \
+            https://cursos.alura.com.br/vitrinedev/FABIOHCNOBRE
+        - Git e GitHub: repositório, commit e versões
+        - Git e Github: controle e compartilhe seu código
+        - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+        - Formação: APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS
+        - Microsoft SQL Server 2022: conhecendo SQL
+        - Microsoft SQL Server 2022: consultas avançadas
 
-educationtitle: 
-    title: Histórico Acadêmico - Certificações
-
-education:  
-    - degree: Ciência da Computação
-      university: PUC - Minas Gerais
-      time: 2011 - 2015
-      details: |
-        Aprendizagem em diversas tecnologias da computação como Banco de Dados, Processamento Gráfico, 
-        Engenharia de Software, Inteligência Artificial, Redes de Computadores e Sistemas de Informação.
-          - Inglês Intermediário
-          - Cursos de Pacotes Office
-    - degree: Alura - cursos e certifacações    
-      details: |
-        A Alura compõe o maior ecossistema de ensino em tecnologia do Brasil e tem como missão transformar vidas e carreiras. \
-              https://cursos.alura.com.br/vitrinedev/FABIOHCNOBRE
-          - Git e GitHub: repositório, commit e versões
-          - Git e Github: controle e compartilhe seu código
-          - Git e Github: estratégias de ramificação, Conflitos e Pull Requests
-          - Formação: APRENDA A PROGRAMAR EM C# COM ORIENTAÇÃO A OBJETOS
-          - Microsoft SQL Server 2022: conhecendo SQL
-          - Microsoft SQL Server 2022: consultas avançadas
-          
-alura:  
-    - curso: 'C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos.'
-    - curso: 'Formação de Microsoft SQL Server 2022'
-    - curso: 'MongoDB: conhecendo um banco de dados NoSQL'
-    - curso: 'ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ'
-    - curso: 'Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs.'
+alura:
+  - curso: "C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos."
+  - curso: "Formação de Microsoft SQL Server 2022"
+  - curso: "MongoDB: conhecendo um banco de dados NoSQL"
+  - curso: "ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ"
+  - curso: "Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs."
 
 experience:
-    title: 'Experiência Profissional' 
+  title: "Experiência Profissional"
 
-experiences: 
-    - role: Analista de Sistemas - JR
-      time: Abril de 2021 - Atual
-      company: Metanet Sistemas
-      details: |
-        Analise e desenvolvimento de sistema gestão empresarial com linguagem C#.
-          - C# .NET
-          - Banco SQL Server
-    - role:  Analista de Sistemas - JR
-      time: Abril de 2016 - Abril de 2021
-      company: Ciaf - Soluções em Software
-      details: |
-        Desenvolvedor de sistema em C# usando Visual Studio. 
-          - Integrações com NF-e e NFC-e utilizando C#.
-          - Suporte e atendimento ao clientes via telefone e online.
-    - role: Desenvolvedor - JR
-      time: Junho de 2015 - Abril de 2016
-      company: Hard Net Informática
-      details: |
-        Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
-         - Atendimento presencial.
-         
+experiences:
+  - role: Analista de Sistemas - JR
+    time: Abril de 2021 - Atual
+    company: Metanet Sistemas
+    details: |
+      Analise e desenvolvimento de sistema gestão empresarial com linguagem C#.
+        - C# .NET
+        - Banco SQL Server
+  - role: Analista de Sistemas - JR
+    time: Abril de 2016 - Abril de 2021
+    company: Ciaf - Soluções em Software
+    details: |
+      Desenvolvedor de sistema em C# usando Visual Studio. 
+        - Integrações com NF-e e NFC-e utilizando C#.
+        - Suporte e atendimento ao clientes via telefone e online.
+  - role: Desenvolvedor - JR
+    time: Junho de 2015 - Abril de 2016
+    company: Hard Net Informática
+    details: |
+      Desenvolvimento (Excel e VBa) de sistema de automação de relatórios para o Grupo Alcoa.
+      - Atendimento presencial.
+
 skills:
-    title: Habilidades &amp; Competencias
+  title: Habilidades &amp; Competencias
 
-    toolset:
-      - name: Visual Studio
-        level: 100% 
+  toolset:
+    - name: Visual Studio
+      level: 100%
 
-      - name: C#
-        level: 80%
+    - name: C#
+      level: 80%
 
-      - name: .NET Framework/WPF
-        level: 50%
+    - name: .NET Framework/WPF
+      level: 50%
 
-      - name: Banco de dados - MySQL / SQL / MongoDB
-        level: 40%
+    - name: Banco de dados - MySQL / SQL / MongoDB
+      level: 40%
 
-      - name: API Rest
-        level: 40%
+    - name: API Rest
+      level: 40%
 
-      - name: Integracoes - Boletos - Nota Fiscais Eletrônica
-        level: 40%
+    - name: Integracoes - Boletos - Nota Fiscais Eletrônica
+      level: 40%
 
 footer: >
-    Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
+  Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a>
 
 siderbarfooter: /imagens/computador.png
