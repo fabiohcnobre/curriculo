@@ -4,7 +4,20 @@
     }
 
     body {
-        font-size: 12pt;
+        font-size: 12pt; 
+        padding: 0 !important;
+    }
+    
+    .wrapper {
+        max-width: unset !important;
+        background: #000001 !important;
+        color: black !important;
+    }
+
+    h2.wrapper {
+        max-width: unset !important;
+        background: #000001 !important;
+        color: black !important;
     }
 
     img.avatar {
@@ -14,10 +27,6 @@
 
     a[href]:after {
         content: none !important;
-      }
-
-      .wrapper {        
-        background: #000001 !important;
     }
 
     .main-wrapper .time {
@@ -50,5 +59,9 @@
     .fa-inverse:after,
     .fa-inverse:before {
         color: #ffffff !important;
+    }
+
+    .section-title{
+        color: black; 
     }
 }

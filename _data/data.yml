@@ -73,7 +73,10 @@ alura:
     - curso: 'MongoDB: conhecendo um banco de dados NoSQL'
     - curso: 'ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ'
     - curso: 'Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs.'
- 
+
+experience:
+    title: 'Experiência Profissional' 
+
 experiences: 
     - role: Analista de Sistemas - JR
       time: Abril de 2021 - Atual

@@ -68,7 +68,10 @@ alura:
     - curso: 'MongoDB'
     - curso: 'SQL SERVER'
     - curso: 'Git e GitHub'
- 
+
+experience:
+    title: 'Experience Profissional' 
+
 experiences: 
     - role: Systems Analyst - JR
       time: 2021-04 - Current
