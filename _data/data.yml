@@ -5,6 +5,9 @@
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
+  resumepdf: 'PDF do Currículo' 
+  languagechangelabel: 'Currículo em Inglês' 
+  languagechange: /en/ 
 
   # Profile information
   name: Fabio H. C. Nobre
@@ -30,6 +33,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: /pdf/CurriculoFabioHCNobre 08-2023.pdf
+ 
 
   language:
     title: Idiomas

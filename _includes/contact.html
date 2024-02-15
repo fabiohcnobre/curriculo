@@ -95,7 +95,7 @@
 
         {% if sidebar.twitter %}
         <li class="twitter">
-            <i class="fab fa-twitter"></i>
+            <i class="fab fa-x-twitter"></i>
             <a href="https://twitter.com/{{ sidebar.twitter }}" rel = "noopener noreferrer" target="_blank">{{ sidebar.twitter }}</a>
         </li>
         {% endif %}
@@ -124,7 +124,14 @@
         {% if sidebar.pdf %}
         <li class="pdf">
             <i class="fas fa-file-pdf"></i>
-            <a href=" {{ sidebar.pdf | prepend: site.baseurl }}" rel = "noopener noreferrer" target="_blank">Resume PDF</a>
+            <a href=" {{ sidebar.pdf | prepend: site.baseurl }}" rel = "noopener noreferrer" target="_blank"> {{ sidebar.resumepdf }}</a>
+        </li>
+        {% endif %}
+
+        {% if sidebar.languagechangelabel %}
+        <li class="idioma">
+            <i class="fas fa-earth-americas"></i>
+            <a href=" {{ sidebar.languagechange | prepend: site.baseurl }}" rel = "noopener noreferrer"> {{ sidebar.languagechangelabel }} </a>
         </li>
         {% endif %}
 

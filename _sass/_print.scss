@@ -22,6 +22,7 @@
         content: none !important;
     }
 
+    /* Corpo */
     .main-wrapper {
         grid-column: span 7;
         order: 1;
@@ -59,9 +60,7 @@
         }
 
     }
-
-
-
+ 
     /* Barra lateral */
     .sidebar-wrapper {
         grid-column: span 3;
@@ -84,6 +83,10 @@
         }
 
         .pdf {
+            display: none;
+        }
+
+        .idioma {
             display: none;
         }
     }
