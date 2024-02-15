@@ -30,6 +30,9 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf:
 
+  language:
+    title: Languages
+
   languages:
     - idiom: Portuguese - Brazil
       level: Native

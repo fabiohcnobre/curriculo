@@ -29,7 +29,10 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: /curriculo/pdf/CurriculoFabioHCNobre 08-2023.pdf
+  pdf: /pdf/CurriculoFabioHCNobre 08-2023.pdf
+
+  language:
+    title: Idiomas
 
   languages:
     - idiom: Portugues - Brasil
@@ -99,7 +102,7 @@ experiences:
       - Atendimento presencial.
 
 skills:
-  title: Habilidades &amp; Competencias
+  title: Habilidades &amp; Competências
 
   toolset:
     - name: Visual Studio
