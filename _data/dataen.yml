@@ -80,7 +80,7 @@ experiences:
     company: Metanet Sistemas
     details: |
       - C# .NET
-      - Banco SQL Server
+      - SQL Server
   - role: Systems Analyst  - JR
     time: 2016-04 -2021-04
     company: Ciaf - Soluções em Software
@@ -106,7 +106,7 @@ skills:
     - name: .NET Framework/WPF
       level: 50%
 
-    - name: Banco de dados - MySQL / SQL / MongoDB
+    - name: Database - MySQL / SQL / MongoDB
       level: 40%
 
     - name: API Rest
