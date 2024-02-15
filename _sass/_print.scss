@@ -9,6 +9,11 @@
     }
     
     .wrapper {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);      
+        margin: 0 auto;
+        position: relative;
+
         max-width: unset !important;
         background: #000001 !important;
         color: black !important;
@@ -23,17 +28,74 @@
         content: none !important;
     }
 
-    .main-wrapper .time {
+    .main-wrapper { 
+        grid-column: span 7;
+        order: 1;
+        background: #fff;
+        padding-top: 5px;
+        padding-right: 25px;
+        padding-left: 25px;
+        font-size: 12px;
+        color: black !important;  
+
+        .container-block {
+            padding: 20px;
+        }
+
+        .job-title,
+        .degree {
+            color: black !important;
+         }
+    }
+
+    .main-wrapper .company {
         float: left;
+        color: black !important;
+        padding: auto;
+        -webkit-print-color-adjust: exact;
+    }
+
+    .main-wrapper .time {
         color: black !important;
         -webkit-print-color-adjust: exact;
     }
 
-    .sidebar-wrapper {
-        position: static;
-        float: left;
-        width: 40%;
+    .main-wrapper .section-title{ 
+        font-size: 13px;
+        color: black !important; 
+    }
+
+    .main-wrapper .job-title { 
+        font-size: 13px;
+        color: black !important; 
+    }
+
+    .main-wrapper .title-section { 
+        font-size: 14px;
+        color: black !important;
+    }
+
+    /* Barra lateral */
+    .sidebar-wrapper {        
+        grid-column: span 3;
+        position: relative;        
+        order: 0;
+        float: left; 
+        font-size: 12px; 
         -webkit-print-color-adjust: exact;
+        background-color: #666666; 
+
+        .container-block-title {
+            font-size: 13px; 
+        }
+
+        .container-block {
+            padding: 20px;
+        }
+
+        .pdf {
+            display: none;
+        }
     }
 
     .remove-container.container-block {
@@ -55,7 +117,5 @@
         color: #ffffff !important;
     }
 
-    .section-title{
-        color: black; 
-    }
+    
 }
