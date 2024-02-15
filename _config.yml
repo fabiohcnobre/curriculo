@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 # Site Settings
 title: 'Meu Currículo'
-url: 'https://fabiohcnobre.github.io/online-cv/'
+url: 'https://fabiohcnobre.github.io/curriculo/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -14,6 +14,9 @@ chrome_mobile_color: 3942E4 #use hex colors (ex:#1976d2) or leave empty if you d
 
 # Tracker
 analytics: G-N9YT4HCE3P
+
+locale: pt_BR #en_US 
+timezone:  America/Sao_Paulo
 
 # Sass/SCSS
 sass:
