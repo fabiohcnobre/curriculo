@@ -131,7 +131,7 @@ p {
 
     .education-container {
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 5px;
 
             &:last-child {
                 margin-bottom: 0;
@@ -139,14 +139,14 @@ p {
         }
 
         .meta {
-            color: rgba(256, 256, 256, 0.6);
+            color:  $text-grey;
             font-weight: 500;
             margin-bottom: 0px;
             margin-top: 0;
         }
 
         .time {
-            color: rgba(256, 256, 256, 0.6);
+            color:  $text-grey;
             font-weight: 500;
             margin-bottom: 0px;
         }
@@ -154,7 +154,7 @@ p {
 
     .languages-container {
         .lang-desc {
-            color: rgba(256, 256, 256, 0.6);
+            color:  $text-grey;
         }
     }
 
@@ -237,7 +237,7 @@ p {
     }
 
     .time {
-        position: absolute;
+        position: absolute; 
         right: 0;
         top: 0;
         color: $text-grey;

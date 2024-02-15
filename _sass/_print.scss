@@ -4,31 +4,25 @@
     }
 
     body {
-        font-size: 12pt; 
+        font-size: 12pt;
         padding: 0 !important;
     }
-    
+
     .wrapper {
         display: grid;
-        grid-template-columns: repeat(10, 1fr);      
+        grid-template-columns: repeat(10, 1fr);
         margin: 0 auto;
         position: relative;
 
         max-width: unset !important;
-        background: #000001 !important;
         color: black !important;
-    }
-
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
     }
 
     a[href]:after {
         content: none !important;
     }
 
-    .main-wrapper { 
+    .main-wrapper {
         grid-column: span 7;
         order: 1;
         background: #fff;
@@ -36,61 +30,57 @@
         padding-right: 25px;
         padding-left: 25px;
         font-size: 12px;
-        color: black !important;  
 
         .container-block {
             padding: 20px;
         }
 
-        .job-title,
-        .degree {
-            color: black !important;
-         }
+        .time {
+            position: absolute;
+            right: 0;
+            top: 0;
+            color: $text-grey;
+        }
+
+        .company,
+        .university {
+            margin-bottom: 10px;
+            color: $text-grey;
+        }
+
+        
+
+        .section-title {
+            font-size: 13px;
+        }
+
+        .title-section {
+            font-size: 14px;
+        }
+
     }
 
-    .main-wrapper .company {
-        float: left;
-        color: black !important;
-        padding: auto;
-        -webkit-print-color-adjust: exact;
-    }
 
-    .main-wrapper .time {
-        color: black !important;
-        -webkit-print-color-adjust: exact;
-    }
-
-    .main-wrapper .section-title{ 
-        font-size: 13px;
-        color: black !important; 
-    }
-
-    .main-wrapper .job-title { 
-        font-size: 13px;
-        color: black !important; 
-    }
-
-    .main-wrapper .title-section { 
-        font-size: 14px;
-        color: black !important;
-    }
 
     /* Barra lateral */
-    .sidebar-wrapper {        
+    .sidebar-wrapper {
         grid-column: span 3;
-        position: relative;        
+        position: relative;
         order: 0;
-        float: left; 
-        font-size: 12px; 
+        float: left;
+        font-size: 12px;
         -webkit-print-color-adjust: exact;
-        background-color: #666666; 
 
         .container-block-title {
-            font-size: 13px; 
+            font-size: 13px;
         }
 
         .container-block {
             padding: 20px;
+        }
+
+        .twitter {
+            display: none;
         }
 
         .pdf {
@@ -117,5 +107,5 @@
         color: #ffffff !important;
     }
 
-    
+
 }
