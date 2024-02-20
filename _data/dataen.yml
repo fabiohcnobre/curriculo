@@ -66,6 +66,7 @@ education:
         - Git e GitHub  
         - C#
         - SQL SERVER and MongoDB
+        - Docker
 
 alura:
   - curso: "C#."
