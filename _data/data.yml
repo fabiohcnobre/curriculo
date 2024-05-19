@@ -121,7 +121,7 @@ skills:
     - name: C#
       level: 80%
 
-    - name: .NET Framework/WPF
+    - name: .NET Framework/WPF/Blazor/Asp.Net
       level: 50%
 
     - name: Banco de dados - MySQL / SQL / MongoDB
