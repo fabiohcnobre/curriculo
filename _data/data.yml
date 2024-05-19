@@ -75,6 +75,7 @@ education:
         - Microsoft SQL Server 2022: conhecendo SQL
         - Microsoft SQL Server 2022: consultas avançadas
         - Docker: criando e gerenciando containers.
+        - C# Web: crie aplicações usando ASP.NET
 
 alura:
   - curso: "C# e Orientação a Objetos: coleções, arquivos e bibliotecas aprenda a programar em C# com Orientação a Objetos."
