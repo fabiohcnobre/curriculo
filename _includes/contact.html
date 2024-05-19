@@ -9,10 +9,24 @@
             Contato
         </h2> 
 
+        {% if sidebar.birthdate %}
+        <li class="address">
+            <i class="fa-solid fa-calendar-days"></i> 
+            {{ sidebar.birthdate }} 
+        </li>
+        {% endif %}
+
         {% if sidebar.address %}
         <li class="address">
             <i class="fas fa-map"></i>
             {{ sidebar.address }} 
+        </li>
+        {% endif %}
+
+        {% if sidebar.CNH %}
+        <li class="address">
+            <i class="fa-solid fa-car-side"></i>
+            {{ sidebar.CNH }} 
         </li>
         {% endif %}
 

@@ -15,7 +15,9 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
+  birthdate: Sou de Janeiro de 1992.
   address: Araras/SP - Possibilidade de trabalho remoto.
+  CNH: CNH - Categoria AB
   nascido: Poços de Caldas/MG-Brasil
   email: fabiohcnobre@hotmail.com
   phone: +55 (35) 98415-1764
@@ -80,6 +82,8 @@ alura:
   - curso: "MongoDB: conhecendo um banco de dados NoSQL"
   - curso: "ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ"
   - curso: "Git e GitHub: repositório, commit e versões, controle e compartilhe seu código, estratégias de ramificação, Conflitos e PRs."
+  - curso: "C# Web: crie aplicações usando ASP.NET"
+
 
 experience:
   title: "Experiência Profissional"
