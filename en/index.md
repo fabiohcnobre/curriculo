@@ -1,6 +1,7 @@
 ---
 language: en
 layout: default
+description: "Summary of Fabio Nobre's academic, professional and personal life."
 ---
 {% if page.language == "en" %}
 {% assign data = site.data.dataen %}
