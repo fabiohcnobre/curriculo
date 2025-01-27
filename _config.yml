@@ -1,16 +1,15 @@
 # Site Settings
-title: "Currículo Fabio Nobre"
-url: "https://fabiohcnobre.github.io/curriculo/"
-tagline: "Developer FabioHCNobre"
-logo:  'https://avatars.githubusercontent.com/u/22354660'
+title: 'Currículo Fabio Nobre'
+url: 'https://fabiohcnobre.github.io/curriculo/'
+tagline: 'Developer FabioHCNobre'
 image: 'https://avatars.githubusercontent.com/u/22354660'
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: 3942E4
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      image: "https://avatars.githubusercontent.com/u/22354660"
+      image: 'https://avatars.githubusercontent.com/u/22354660'
 
 twitter:
   username: fabiohcnobre
