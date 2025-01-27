@@ -1,16 +1,25 @@
-#Update all the sections by editing the data.yml file inside _data folder.
 # Site Settings
-title: 'Meu Currículo'
+title: 'Currículo Fabio Nobre'
 url: 'https://fabiohcnobre.github.io/curriculo/'
-
-#change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/online-cv' 
-
-#description: Teste
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
+tagline: 'Currículo Fabio Nobre'
+logo:  'https://fabiohcnobre.github.io/assets/img/logo2.png'  
+image: 'https://avatars.githubusercontent.com/u/22354660' 
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: 3942E4 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+author: 'FabioHCNobre' 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:  'https://avatars.githubusercontent.com/u/22354660'
+
+twitter:
+  username: fabiohcnobre
+  creator: fabiohcnobre
+  author: 'Fabio Nobre'
+  card: summary
+  image:  '/assets/img/logo2.jpg'  
+
 
 # Tracker
 analytics: G-N9YT4HCE3P
@@ -36,6 +45,9 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
   envs: development
+
+locale: pt_BR #en_US 
+timezone:  America/Sao_Paulo
 
 # Development Settings
 port: 4000
