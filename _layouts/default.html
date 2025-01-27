@@ -2,22 +2,15 @@
 #Add "layout: compress" here to compress the html code
 ---
 <!DOCTYPE html>
-{% if page.language == "en" %}
-{% assign data = site.data.dataen %}
-<html lang="en">
-{% else %}
-{% assign data = site.data.data %}
-<html lang="pt-BR">
-{% endif %} 
+{% if page.language == "en" %}{% assign data = site.data.dataen %}<html lang="en">{% else %}{% assign data = site.data.data %}<html lang="pt-BR">{% endif %} 
 {% include head.html %}
 <body>
   <div class="wrapper">
-    {% include sidebar.html %}
-    <div class="main-wrapper">
+    {% include sidebar.html %}<div class="main-wrapper">
         {{ content }}
     </div>
   </div>
-  {% include footer.html %}
+{% include footer.html %}
 {% include scripts.html %}
 </body>
 </html>
