@@ -1,11 +1,8 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
-  resumepdf: "Resume PDF" 
-  languagechangelabel: "CV in Portuguese-Brazil" 
+  resumepdf: 'Resume PDF'
+  languagechangelabel: 'CV in Portuguese-Brazil' 
   languagechange: / 
 
   # Profile information
@@ -49,7 +46,6 @@ career-profile:
   title: Career Profile
   summary: "Results-oriented systems analyst, with excellent communication skills, as well as in-depth knowledge of digital systems and company and financial management processes."
   details: |
-          ""
 
 educationtitle:
   title: Education - Certifications
@@ -125,6 +121,6 @@ skills:
     - name: Integrations - BRAZIL Invoice
       level: 40%
 
-footer: "<i class="fas fa-heart"></i> by <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a> Update in "
+footer: '<i class="fas fa-heart"></i> by <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a> Update in '
 
 siderbarfooter: /curriculo/imagens/computador.png
