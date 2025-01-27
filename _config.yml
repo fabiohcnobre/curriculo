@@ -2,8 +2,8 @@
 title: 'Currículo Fabio Nobre'
 url: 'https://fabiohcnobre.github.io/curriculo/'
 tagline: 'Currículo Fabio Nobre'
-logo:  'https://fabiohcnobre.github.io/assets/img/logo2.png'  
-image: 'https://avatars.githubusercontent.com/u/22354660' 
+logo:  'https://avatars.githubusercontent.com/u/22354660'
+image: 'https://avatars.githubusercontent.com/u/22354660'
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: 3942E4 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 author: 'FabioHCNobre' 
@@ -45,9 +45,6 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
   envs: development
-
-locale: pt_BR #en_US 
-timezone:  America/Sao_Paulo
 
 # Development Settings
 port: 4000
