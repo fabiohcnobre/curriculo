@@ -5,8 +5,8 @@
 sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
-  resumepdf: 'PDF do Currículo' 
-  languagechangelabel: 'Currículo em Inglês' 
+  resumepdf: "PDF do Currículo" 
+  languagechangelabel: "Currículo em Inglês" 
   languagechange: /en/ 
 
   # Profile information
@@ -51,6 +51,7 @@ career-profile:
   title: Resumo Pessoal
   summary: Analista de sistemas orientado por resultados, com excelentes habilidades de comunicação, além de profundo conhecimento de sistemas digitais e processo de gestão de empresa e financeiro.
   details: |
+        ""
 
 educationtitle:
   title: Histórico Acadêmico - Certificações
@@ -134,7 +135,6 @@ skills:
     - name: Integrações - Boletos - NF-e/NFC-e/CT-e/MDF-e
       level: 40%
 
-footer: >
-  Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a> Atualizado em 
+footer: "Feito com <i class="fas fa-heart"></i> pelo <a href="https://github.com/fabiohcnobre" target="_blank" rel="nofollow">FabioHCNobre</a> Atualizado em" 
 
 siderbarfooter: /imagens/computador.png
