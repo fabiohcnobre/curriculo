@@ -1,5 +1,6 @@
 ---
 layout: default
+description: "Resumo da vida acadêmica, profissional e pessoal de Fabio Nobre."
 ---
 {% if page.language == "en" %}
 {% assign data = site.data.dataen %}
