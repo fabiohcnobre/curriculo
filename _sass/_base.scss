@@ -1,8 +1,7 @@
 /* ======= Base ======= */
 body {
     font-family: "Roboto", sans-serif;
-    color: $text-color-secondary;
-    background: $smoky-white;
+    color: $text-color-secondary; 
     font-size: 14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
@@ -19,11 +18,11 @@ h6 {
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: $theme-color;
 
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: darken($theme-color, 15%);
     }
 
     &:focus {
@@ -49,8 +48,7 @@ p {
     grid-column: span 3;
     order: 0;
     background: $theme-color;
-    color: #fff;
-
+    color: #fff; 
     a {
         color: #fff;
     }
